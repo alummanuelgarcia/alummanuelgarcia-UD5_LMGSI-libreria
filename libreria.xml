@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="libreria5.xsl"?>
+<listalibros>
+    <libros>                  
+    <autor>Juan Garcia</autor>       
+    <titulo>Microeconomia</titulo>
+    <editorial>Ed. de economia</editorial>
+    <publicacion>Abril 2010 </publicacion>
+    <ISBN>1-232-541-21</ISBN>
+    <precio>05.00</precio>
+    <numpaginas>100</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor> Pedro Gonzalez  </autor>       
+    <titulo>Micro</titulo>
+    <editorial>Economia</editorial>
+    <publicacion>Diciembre 2010 </publicacion>
+    <ISBN>1-232-541-22</ISBN>
+    <precio>10.00</precio>
+    <numpaginas>200</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Roberto Rodriguez</autor>       
+    <titulo>Suma</titulo>
+    <editorial>Ed. de matematicas</editorial>
+    <publicacion>Abril 2011 </publicacion>
+    <ISBN>1-232-541-23</ISBN>
+    <precio>15.00</precio>
+    <numpaginas>124</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Juan Rodriguez</autor>       
+    <titulo>Resta</titulo>
+    <editorial>Ed. de matematicas</editorial>
+    <publicacion>Abril 2011 </publicacion>
+    <ISBN>1-232-541-24</ISBN>
+    <precio>10.00</precio>
+    <numpaginas>145</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Almudena Perez</autor>       
+    <titulo>Division</titulo>
+    <editorial>Ed. de matematicas</editorial>
+    <publicacion>Abril 2013 </publicacion>
+    <ISBN>1-232-541-25</ISBN>
+    <precio>05.00</precio>
+    <numpaginas>109</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Mario Jimenez</autor>       
+    <titulo>Policias</titulo>
+    <editorial>Ed. de policia</editorial>
+    <publicacion>Enero 2011 </publicacion>
+    <ISBN>1-232-541-26</ISBN>
+    <precio>08.00</precio>
+    <numpaginas>111</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Mario Jimenez</autor>       
+    <titulo>Guardia Civiles</titulo>
+    <editorial>Ed. de policia</editorial>
+    <publicacion>Febrero 2011 </publicacion>
+    <ISBN>1-232-541-27</ISBN>
+    <precio>08.00</precio>
+    <numpaginas>111</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Miguel Seller</autor>       
+    <titulo>Campo</titulo>
+    <editorial>Ed. de agricultura</editorial>
+    <publicacion>Febrero 2012 </publicacion>
+    <ISBN>1-232-541-28</ISBN>
+    <precio>10.50</precio>
+    <numpaginas>150</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Miguel Seller</autor>       
+    <titulo>Fauna</titulo>
+    <editorial>Ed. de agricultura</editorial>
+    <publicacion>Marzo 2012 </publicacion>
+    <ISBN>1-232-541-29</ISBN>
+    <precio>12.50</precio>
+    <numpaginas>160</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Pedro Seller</autor>       
+    <titulo>Movil</titulo>
+    <editorial>Ed. de informatica</editorial>
+    <publicacion>Marzo 2013 </publicacion>
+    <ISBN>1-232-541-30</ISBN>
+    <precio>10.50</precio>
+    <numpaginas>120</numpaginas>
+    </libros>
+
+    <libros>                  
+        <autor>Pedro Gonzalez</autor>       
+        <titulo>Trabajo</titulo>
+        <editorial>Ed. de trabajo</editorial>
+        <publicacion>Marzo 2015 </publicacion>
+        <ISBN>1-232-541-31</ISBN>
+        <precio>60.50</precio>
+        <numpaginas>140</numpaginas>
+        </libros>
+    
+</listalibros>   
